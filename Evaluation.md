@@ -17,9 +17,11 @@ A LA FIN DU TP: pensez à pousser vos commits sur votre compte GitHub et envoyer 
 Réponses aux questions posées
 -----------------------------
 
-Q1)
+Q1) 
+	Créer une classe operation, creer un tableau de contenant tous les signes . 
+Les parcourirs avec une boucle, tester pour chaque operation si elle est utilisé. 
 
-Q2)
+Q2) Encapsulation des objets
 
 Q3)
 
